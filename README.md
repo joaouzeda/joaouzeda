@@ -13,7 +13,7 @@ public class Me {
 
  
     public static void main(String[] args) {
-        MechatronicsEngineer me = new SoftwareEngineer();
+        MechatronicsEngineer me =  MechatronicsEngineer();
 
     }
 }
