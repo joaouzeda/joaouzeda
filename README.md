@@ -1,16 +1,23 @@
-## Hi there 👋
+'''
+public class SoftwareEngineer {
+    private String name;
+    private String role;
+    private String[] languageSpoken;
 
-<!--
-**joaouzeda/joaouzeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    public SoftwareEngineer() {
+        this.name = "Bruna Markowisk";
+        this.role = "Software Engineer Student";
+        this.languageSpoken = new String[]{"pt_BR", "en_US"};
+    }
 
-Here are some ideas to get you started:
+    public void sayHi() {
+        System.out.println("Thanks for dropping by. Contact me to code together and build something new :)");
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public static void main(String[] args) {
+        SoftwareEngineer me = new SoftwareEngineer();
+        me.sayHi();
+    }
+}
+
+'''
