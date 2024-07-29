@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">traduza: Sou um entusiasta de sistemas embarcados com experiência prática na plataforma Espressif-IDF. Atualmente, trabalho como Assistente de Engenharia de Desenvolvimento de Sistemas Embarcados na GreenTech Soluções Intra Logísticas e regional no SFL Brasil.</p>
+<p align="left">Sou um entusiasta de sistemas embarcados com experiência prática na plataforma Espressif-IDF. Atualmente, trabalho como Assistente de Engenharia de Desenvolvimento de Sistemas Embarcados na GreenTech Soluções Intra Logísticas e regional no SFL Brasil.</p>
 
 ###
 
