@@ -21,10 +21,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joao_uzeda&count={count})
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-uz%C3%AAda-9591b4172/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
