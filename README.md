@@ -21,11 +21,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/joao.uzeda">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joao_uzeda&count={count})" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joao_uzeda&count={count})
 
 ###
 
