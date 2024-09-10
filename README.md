@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an embedded systems enthusiast with hands-on experience in the Espressif-IDF platform. Currently, I work as an Embedded Systems Development Engineering Assistant at GreenTech Soluções Intra Logísticas and as a regional coordinator at SFL Brazil.</p>
+<p align="left">Mechatronics Engineering student and Engineering Assistant at Greentech Soluções Intra Logísticas, where I develop embedded products. I have leadership experience with the NGO Students for Liberty Brazil and technical skills in C/C++, Python, FreeRTOS, and Espressif-IDF. Always seeking new challenges and growth opportunities in the embedded systems field.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou um entusiasta de sistemas embarcados com experiência prática na plataforma Espressif-IDF. Atualmente, trabalho como Assistente de Engenharia de Desenvolvimento de Sistemas Embarcados na GreenTech Soluções Intra Logísticas e regional no SFL Brasil.</p>
+<p align="left">Estudante de Engenharia Mecatrônica e Assistente de Engenharia na Greentech Soluções Intra Logísticas, onde desenvolvo produtos embarcados. Possuo experiência em liderança na ONG Students for Liberty Brazil e habilidades técnicas em C/C++, Python, FreeRTOS e Espressif-IDF. Sempre buscando novos desafios e oportunidades de crescimento na área de sistemas embarcados.</p>
 
 ###
 
