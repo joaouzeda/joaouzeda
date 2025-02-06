@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mechatronics Engineering student and Engineering Assistant at Greentech Soluções Intra Logísticas, where I develop embedded products. I have leadership experience with the NGO Students for Liberty Brazil and technical skills in C/C++, Python, FreeRTOS, and Espressif-IDF. Always seeking new challenges and growth opportunities in the embedded systems field.</p>
+<p align="left">Mechatronics Engineering student and Engineering Assistant. I developed a telemetry system for logistics equipment, including machine locking and a communication protocol via LoRa and MQTT with timestamp. I have leadership experience at the NGO Students for Liberty Brazil and technical skills in C/C++, Python, FreeRTOS, and Espressif-IDF. Always looking for new challenges and growth opportunities in the embedded systems field.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estudante de Engenharia Mecatrônica e Assistente de Engenharia na Greentech Soluções Intra Logísticas, onde desenvolvo produtos embarcados. Possuo experiência em liderança na ONG Students for Liberty Brazil e habilidades técnicas em C/C++, Python, FreeRTOS e Espressif-IDF. Sempre buscando novos desafios e oportunidades de crescimento na área de sistemas embarcados.</p>
+<p align="left">Estudante de Engenharia Mecatrônica e Assistente de Engenharia. Desenvolvi um sistema de telemetria para equipamentos logísticos, incluindo bloqueio de máquina e um protocolo de comunicação via LoRa e MQTT com timestamp. Possuo experiência em liderança na ONG Students for Liberty Brazil e habilidades técnicas em C/C++, Python, FreeRTOS e Espressif-IDF. Sempre buscando novos desafios e oportunidades de crescimento na área de sistemas embarcados.</p>
 
 ###
 
