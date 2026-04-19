@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" height="40" alt ="KiCad logo" />
 </div>
 
 ###
@@ -61,12 +63,15 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-uz%C3%AAda-9591b4172/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img width="12" />
   </a>
-  <a href="mailto:uzeda.joao.p@gmail.com" target="_blank">
+  <href="mailto:uzeda.joao.p@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img width="12" />
   </a>
   <a href="https://www.instagram.com/joao.uzeda?igsh=MWs4dW14ZmIwbmQ4ag==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img width="12" />
   </a>
 </div>
 
