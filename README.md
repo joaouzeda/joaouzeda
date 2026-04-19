@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
+
 <h1 align="center">About Me:</h1>
 
 ###
@@ -32,6 +38,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaouzeda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">My Techs</h2>
 
 ###
@@ -56,23 +68,30 @@
 
 ###
 
+
 <h2 align="left">My socials</h2>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-uz%C3%AAda-9591b4172/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    <img width="12" />
   </a>
-  <href="mailto:uzeda.joao.p@gmail.com" target="_blank">
+  <a href="mailto:uzeda.joao.p@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    <img width="12" />
   </a>
   <a href="https://www.instagram.com/joao.uzeda?igsh=MWs4dW14ZmIwbmQ4ag==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    <img width="12" />
   </a>
 </div>
 
 ###
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+
+
