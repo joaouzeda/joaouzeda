@@ -12,14 +12,6 @@
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">Estudante de Engenharia Mecatrônica. Desenvolvi um sistema de telemetria para equipamentos logísticos, incluindo bloqueio de máquina e um protocolo de comunicação via LoRa e MQTT com timestamp. Possuo experiência em liderança na ONG Students for Liberty Brazil e habilidades técnicas em C/C++, Python, FreeRTOS e Espressif-IDF. Sempre buscando novos desafios e oportunidades de crescimento na área de sistemas embarcados.</p>
-
-###
-
 <h2 align="left">My Languages</h2>
 
 ###
@@ -44,25 +36,13 @@
 
 ###
 
-<h2 align="left">My Techs</h2>
+<h2 align="left">Tools and Technologie</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,grafana,raspberrypi,prometheus,arduino," />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" height="40" alt ="KiCad logo" />
 </div>
 
